@@ -5,7 +5,7 @@
 layout: page
 ---
 
-A simple way to track your mood
+*vui* - simple way to track your mood
 \
 &nbsp;
 
