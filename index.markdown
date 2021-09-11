@@ -25,4 +25,4 @@ Additional features:
 \
 &nbsp;
 
-[Go to App Store]()
+[Go to App Store](https://apps.apple.com/us/app/vui-mood-tracker/id1583436245)
